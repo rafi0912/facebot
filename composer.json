@@ -1,31 +1,119 @@
-{
-    "name": "nahid/facebot",
-    "description": "FaceBot is a PHP Framework for Facebook Messenger Bot development",
-    "keywords": ["facebot", "facebook", "facebook-messenger", "facebook-bot", "chatbot", "nahid", "messenger-bot", "fb-bot"],
-    "homepage": "https://github.com/nahid/facebot",
-    "license": "CC(3.0)",
-    "authors": [
-        {
-            "name": "Nahid Bin Azhar",
-            "email": "nahid.dns@gmail.com"
-        }
-    ],
-    "require": {
-        "nahid/apiz": "^1.0",
-        "symfony/http-foundation": "^3.3",
-        "predis/predis": "^1.1",
-        "vlucas/phpdotenv": "^2.3"
+[
+    {
+        "key": "dbln",
+        "value": "%7B%22100094657276157%22%3A%229imNaOrZ%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2024-09-21T16:05:50.661Z",
+        "lastAccessed": "2024-09-21T16:05:50.661Z"
     },
-    "require-dev": {
-      "symfony/var-dumper": "^3.3"
+    {
+        "key": "datr",
+        "value": "wtDqZqWVzGOCJavbTaismbNq",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-21T16:05:50.661Z",
+        "lastAccessed": "2024-09-21T16:05:50.661Z"
     },
-    "autoload": {
-        "psr-4": {
-            "Nahid\\FaceBot\\": "libraries/",
-            "App\\": "app/"
-        },
-        "files": [
-            "libraries/helpers/env.php"
-        ]
+    {
+        "key": "sb",
+        "value": "wtDqZvsFwCmBLK8LlMKCLmEf",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-21T16:05:50.661Z",
+        "lastAccessed": "2024-09-21T16:05:50.661Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-21T16:05:50.661Z",
+        "lastAccessed": "2024-09-21T16:05:50.661Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-21T16:05:50.661Z",
+        "lastAccessed": "2024-09-21T16:05:50.661Z"
+    },
+    {
+        "key": "wd",
+        "value": "360x332",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-21T16:05:50.661Z",
+        "lastAccessed": "2024-09-21T16:05:50.661Z"
+    },
+    {
+        "key": "c_user",
+        "value": "100094657276157",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-21T16:05:50.661Z",
+        "lastAccessed": "2024-09-21T16:05:50.661Z"
+    },
+    {
+        "key": "fr",
+        "value": "0T6DN1zEtkud4x4Hf.AWVwYo_l5Hs0bVTOX18WuxAMDvo.Bm6tDC..AAA.0.0.Bm6tFR.AWWPlYaHiCA",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-21T16:05:50.661Z",
+        "lastAccessed": "2024-09-21T16:05:50.661Z"
+    },
+    {
+        "key": "xs",
+        "value": "31%3AckD_g9w0GnR0tw%3A2%3A1726665042%3A-1%3A5134",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-21T16:05:50.661Z",
+        "lastAccessed": "2024-09-21T16:05:50.661Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_GB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-21T16:05:50.661Z",
+        "lastAccessed": "2024-09-21T16:05:50.661Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B693x360x3",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-21T16:05:50.661Z",
+        "lastAccessed": "2024-09-21T16:05:50.661Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "100634942%3BT%3A28782018",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-21T16:05:50.661Z",
+        "lastAccessed": "2024-09-21T16:05:50.661Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2625%3Btimestamp%3A1726921085%3BCRCM%3A640141430",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-21T16:05:50.661Z",
+        "lastAccessed": "2024-09-21T16:05:50.661Z"
     }
-}
+]
